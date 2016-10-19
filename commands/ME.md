@@ -1,5 +1,8 @@
 __Set/Read the memory channel__
 
+
+# this is for the TH-D74 have to modify back to the TH-D72
+
 Set the memory channel:
 
 	ME p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14, p15, p16, p17, p18, p19, p20, p21, p22

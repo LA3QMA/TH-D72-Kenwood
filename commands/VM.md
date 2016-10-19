@@ -1,5 +1,7 @@
 __Set/Read memory VFO mode__
 
+# this is for the TH-D74 have to modify back to the TH-D72
+
 Set memory/VFO mode:
 
 	VM n,x
