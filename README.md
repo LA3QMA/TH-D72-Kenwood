@@ -85,6 +85,8 @@ Available Control commands:
 
 - TC	[TNC controll mode](/commands/TC.md)
 
+- TS	[TNC controll mode 2](/commands/TS.md)
+
 - 0M PROGRAM	[Enters MCP programming mode](/commands/0M PROGRAM.md)
 
 - 0G KENWOOD	[Enters service mode](/commands/0G KENWOOD.md)
