@@ -15,7 +15,7 @@ Available Control commands:
 
 - TY	[Radio Type](/commands/TY.md)
 
-- DL	[Dual Band Mode/Single Band Mode](/commands/AE.md)
+- DL	[Dual Band Mode/Single Band Mode](/commands/DL.md)
 
 - MR	[Memory channel](/commands/MR.md)
 
