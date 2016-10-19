@@ -2,6 +2,8 @@
 
 Reverse engineered commands bases on my first discovery for the TM-D710.
 
+# work in progress as i'm converting this from an old document
+
 Available Control commands:
 
 
