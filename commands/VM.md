@@ -1,25 +1,24 @@
 __Set/Read memory VFO mode__
 
-# this is for the TH-D74 have to modify back to the TH-D72
-
 Set memory/VFO mode:
 
-	VM n,x
+	VM p1,p2
 
 Read the memory/VFO mode:
 
-	VM
+	VM p1
 	
-Returns: x
-
-|x|function
-|---|---|
-|0|VFO mode
-|1|Memory mode
-|2|Call mode
-|3|DV mode
+Returns: p1,p2
 
 |n|function
 |---|---|
 |0|Band A
 |1|Band B
+
+|p2|function
+|---|---|
+|0|VFO mode
+|1|Memory mode
+|2|Call mode
+|3|WX mode
+

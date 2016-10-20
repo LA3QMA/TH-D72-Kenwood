@@ -8,4 +8,5 @@ Reset the radio:
 |---|---|
 |0|VFO reset
 |1|Partial reset
-|2|Full reset
+|2|PM
+|3|Full reset

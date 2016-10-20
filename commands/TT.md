@@ -1,2 +1,10 @@
-__Transmit 1750Hz__
+__Transmit tone set by BT command__
+
+Set:
+
+	TT
+
+Stop:
+
+	TT
 
