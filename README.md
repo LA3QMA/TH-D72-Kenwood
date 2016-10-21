@@ -3,6 +3,7 @@
 Reverse engineered commands bases on my first discovery for the TM-D710.
 
 # work in progress as i'm converting this from an old document
+# TODO: add the tables for i.e tone stepsize 
 
 Available Control commands:
 
@@ -63,19 +64,19 @@ Available Control commands:
 
 - LK	[Lock](/commands/LK.md)
 
-- PV	[VFO](/commands/PV.md)
+- PV	[Programmable VFO](/commands/PV.md)
 
 - MN	[Memory name](/commands/MN.md)
 
 - MS	[Power on message](/commands/MS.md)
 
-- TT	[Transmit 1750Hz](/commands/TT.md)
+- TT	[Transmit tone](/commands/TT.md)
 
-- CD	[Channel status](/commands/CD.md)
+- CD	[*Channel status*](/commands/CD.md)
 
 - DM	[DTMF memory](/commands/DM.md)
 
-- SS	[S-meter squelch](/commands/SS.md)
+- SS	[*S-meter squelch*](/commands/SS.md)
 
 - DT	[DTMF](/commands/DT.md)
 
