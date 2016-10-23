@@ -4,6 +4,8 @@ Set:
 
 	DT p1,p2
 
+[DTMF](/tables/dtmf.md)
+
 |p1,p2|DTMF
 |---|---|
 |0,0|0

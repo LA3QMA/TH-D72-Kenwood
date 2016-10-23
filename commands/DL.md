@@ -14,6 +14,8 @@ Read:
 	
 Returns: x
 
+[Band](/tables/band.md)
+
 |code|function|
 |---|---|
 |0|Dual band

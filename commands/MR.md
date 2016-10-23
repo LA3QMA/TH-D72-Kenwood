@@ -12,6 +12,8 @@ Returns: nnn
 
 memory channel number (3 digit)
 
+[Band](/tables/band.md)
+
 |n|Band|
 |---|---|
 |0|Band A
