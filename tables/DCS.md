@@ -1,6 +1,6 @@
 ||DCS|
-|p1|Frequency Hz|
 |---|---|
+|p1|Frequency Hz|
 |001|023
 |002|025
 |003|026
