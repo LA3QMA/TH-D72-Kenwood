@@ -2,8 +2,8 @@
 
 Reverse engineered commands bases on my first discovery for the TM-D710.
 
-# work in progress as i'm converting this from an old document
-# Please report any errors 
+# Please report any errors as this has been converted from my old documents.
+https://groups.yahoo.com/neo/groups/Kenwood_TH-D72
 
 Available Control commands:
 
