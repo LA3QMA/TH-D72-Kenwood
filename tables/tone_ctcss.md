@@ -1,6 +1,6 @@
 ||Tone - CTCSS|
-|p1|Frequency Hz|
 |---|---|
+|p1|Frequency Hz|
 |01|67
 |02|69,3
 |03|71,9
