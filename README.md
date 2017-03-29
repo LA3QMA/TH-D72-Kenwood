@@ -20,7 +20,7 @@ Available Control commands:
 
 - MR	[Memory channel](/commands/MR.md)
 
-- ME	[Memory channel](/commands/ME.md)
+- ME	[Memory channel, frequency, offset etc](/commands/ME.md)
 
 - FO	[VFO channel](/commands/FO.md)
 
@@ -88,6 +88,6 @@ Available Control commands:
 
 - TS	[TNC controll mode 2](/commands/TS.md)
 
-- 0M PROGRAM	[Enters MCP programming mode](/commands/0M PROGRAM.md)
+- PROGRAM		[0M PROGRAM : Enters MCP programming mode](/commands/0M_PROGRAM.md) (Command is: ZERO MIKE space PROGRAM)
 
-- 0G KENWOOD	[Enters service mode](/commands/0G KENWOOD.md)
+- SERVICE	[0G KENWOOD : Enters service mode](/commands/0G_KENWOOD.md) (Command is: ZERO GOLF space KENWOOD)
