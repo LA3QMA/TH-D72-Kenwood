@@ -1,6 +1,6 @@
 # TH-D72-Kenwood - PC RIG control commands
 
-Reverse engineered commands bases on my first discovery for the TM-D710.
+Reverse engineered commands based on my first discovery for the TM-D710.
 
 # Please report any errors as this has been converted from my old documents.
 https://groups.yahoo.com/neo/groups/Kenwood_TH-D72
