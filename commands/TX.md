@@ -1,4 +1,4 @@
-__Set radio in TX mode__
+__Set radio in transmit mode__
 
 Set the radio in TX:
 

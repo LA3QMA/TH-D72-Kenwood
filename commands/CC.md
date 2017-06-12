@@ -1,4 +1,4 @@
-__Call channel__
+__Sets or reads the CALL channel__
 
 Set:
 

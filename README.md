@@ -60,9 +60,9 @@ Available Control commands:
 
 - SR	[Reset](/commands/SR.md)
 
-- CC	[Call channel](/commands/CC.md)
+- CC	[CALL channel](/commands/CC.md)
 
-- LK	[Lock](/commands/LK.md)
+- LK	[Key Lock](/commands/LK.md)
 
 - PV	[Programmable VFO](/commands/PV.md)
 
@@ -81,6 +81,8 @@ Available Control commands:
 - DT	[DTMF](/commands/DT.md)
 
 - BA	[Battery type](/commands/BA.md)
+
+- BL    [Backlight](/commands/BL.md)
 
 - MU	[Menu](/commands/MU.md)
 

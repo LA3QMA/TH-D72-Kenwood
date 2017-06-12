@@ -1,4 +1,4 @@
-__Set radio in RX mode__
+__Set radio in receive mode__
 
 Set the radio in RX:
 
