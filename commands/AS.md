@@ -1,5 +1,5 @@
 __Set/Read reverse__
-
+Removed in firmware V1.08
 Set:
 
 	AS p1
