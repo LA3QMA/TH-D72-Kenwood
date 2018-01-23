@@ -30,7 +30,7 @@ Available Control commands:
 - GP	[Internal GPS](/commands/GP.md)
 - GM	[Radio/GPS](/commands/GM.md)
 - TN	[TNC status](/commands/TN.md)
-- ~~AS	[Reverse](/commands/AS.md) - removed in Firmware V1.08
+- ~~AS	[Reverse](/commands/AS.md)~~ - removed in Firmware V1.08
 - CS	[Callsign](/commands/CS.md)
 - MS	[Power on text](/commands/MS.md)
 - SR	[Reset](/commands/SR.md)
