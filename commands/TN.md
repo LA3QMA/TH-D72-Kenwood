@@ -4,12 +4,6 @@ Set TNC:
 
 	TN p1,p2
 
-Read the TNC mode:
-
-	TN
-	
-Returns: p1,p2
-
 |p1|function
 |---|---|
 |0|off
