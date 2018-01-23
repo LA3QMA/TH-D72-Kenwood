@@ -6,7 +6,7 @@ Get radio firmware:
 
 Returns: radio firmware
 
-|n||Firmware
+|n|Firmware|
 |---|---|
 |0|Main
 |1|TNC?
