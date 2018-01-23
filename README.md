@@ -40,7 +40,7 @@ Available Control commands:
 - MN	[Memory name](/commands/MN.md)
 - MS	[Power on message](/commands/MS.md)
 - TT	[Transmit tone](/commands/TT.md)
-- CD	[*Channel status*](/commands/CD.md)
+- ~~CD	[*Channel status*](/commands/CD.md)~~ - removed in Firmware V1.08
 - DM	[DTMF memory](/commands/DM.md)
 - SS	[*S-meter squelch*](/commands/SS.md)
 - DT	[DTMF](/commands/DT.md)
