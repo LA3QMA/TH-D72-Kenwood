@@ -5,7 +5,7 @@ Reverse engineered commands based on my first discovery for the TM-D710.
 # Please report any errors as this has been converted from my old documents.
 https://groups.yahoo.com/neo/groups/Kenwood_TH-D72
 
-Available Control commands: (Firmware V1.08)
+Available Control commands: (Firmware V1.09)
 
 - ID	[Radio Model](/commands/ID.md)
 - AE	[Radio serialnumber](/commands/AE.md)
@@ -41,7 +41,7 @@ Available Control commands: (Firmware V1.08)
 - TT	[Transmit tone](/commands/TT.md)
 - ~~CD	[*Channel status*](/commands/CD.md)~~ - removed in Firmware V1.08
 - DM	[DTMF memory](/commands/DM.md)
-- SS	[*S-meter squelch*](/commands/SS.md)
+- SS	[*S-meter squelch*](/commands/SS.md) - have to check parameters
 - DT	[DTMF](/commands/DT.md)
 - BA	[Battery type](/commands/BA.md)
 - BL    [Backlight](/commands/BL.md)
