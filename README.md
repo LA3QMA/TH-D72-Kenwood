@@ -3,7 +3,7 @@
 Reverse engineered commands based on my first discovery for the TM-D710.
 
 # Please report any errors as this has been converted from my old documents.
-https://groups.yahoo.com/neo/groups/Kenwood_TH-D72
+https://kenwood-radios.groups.io/g/main/messages and https://kenwood-radios.groups.io/g/TH-D72
 
 Available Control commands: (Firmware V1.09)
 
