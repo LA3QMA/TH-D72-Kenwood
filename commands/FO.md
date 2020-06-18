@@ -2,7 +2,7 @@ __Set/Read the VFO channel__
 
 Set the VFO channel:
 
-	FO p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13
+	FO p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14, p15
 
 Read the VFO channel:
 
@@ -20,8 +20,10 @@ Returns: memory channel number (3 digit)
 |6|[Tone status](/tables/status.md)
 |7|[CTCSS status](/tables/status.md)
 |8|[DCS status](/tables/status.md)
-|9|[Tone frequency](/tables/tone_ctcss.md)
-|10|[CTCSS frequency](/tables/tone_ctcss.md)
-|11|[DCS frequency](/tables/DCS.md)
-|12|Offset frequency in Hz 8 digit
-|13|[Mode](/tables/mode.md)
+|9|[Cross tone]
+|10|[Tone frequency](/tables/tone_ctcss.md)
+|11|[CTCSS frequency](/tables/tone_ctcss.md)
+|12|[DCS frequency](/tables/DCS.md)
+|13|[Cross tone encode/decode]
+|14|Offset frequency in Hz 8 digit
+|15|[Mode](/tables/mode.md)

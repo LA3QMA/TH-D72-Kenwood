@@ -3,7 +3,7 @@ __Set/Read the memory channel__
 
 Set the memory channel:
 
-	ME p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14, p15, p16
+	ME p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14, p15, p16, p17, p18
 
 Read the memory channel:
 
@@ -21,11 +21,13 @@ Returns: memory channel number (3 digit)
 |6|[Tone status](/tables/status.md)
 |7|[CTCSS status](/tables/status.md)
 |8|[DCS status](/tables/status.md)
-|9|[Tone frequency](/tables/tone_ctcss.md)
-|10|[CTCSS frequency](/tables/tone_ctcss.md)
-|11|[DCS frequency](/tables/DCS.md)
-|12|Offset frequency in Hz 8 digit
-|13|[Mode](/tables/mode.md)
-|14|Frequency in Hz 10 digit.
-|15|unknown need help on this
-|16|[Lock out](/tables/status.md)
+|9|[Cross tone]
+|10|[Tone frequency](/tables/tone_ctcss.md)
+|11|[CTCSS frequency](/tables/tone_ctcss.md)
+|12|[DCS frequency](/tables/DCS.md)
+|13|[Cross tone encode/decode]
+|14|Offset frequency in Hz 8 digit
+|15|[Mode](/tables/mode.md)
+|16|Frequency in Hz 10 digit, or transmit freq for odd split
+|17|unknown need help on this
+|18|[Lock out](/tables/status.md)
