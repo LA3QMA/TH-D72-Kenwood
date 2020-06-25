@@ -2,7 +2,7 @@
 |---|---|
 |*Code*|*Function*|
 |0|FM
-|1|AM
-|2|NFM
+|1|NFM
+|2|AM
 
-# needs opdate
+# AM only on band B
