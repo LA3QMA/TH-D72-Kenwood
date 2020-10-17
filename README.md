@@ -5,7 +5,7 @@ Reverse engineered commands based on my first discovery for the TM-D710.
 # Please report any errors as this has been converted from my old documents.
 https://kenwood-radios.groups.io/g/main/messages and https://kenwood-radios.groups.io/g/TH-D72
 
-Available Control commands: (Firmware V1.09)
+Available Control commands: (Firmware V1.10)
 
 - ID	[Radio Model](/commands/ID.md)
 - AE	[Radio serialnumber](/commands/AE.md)
