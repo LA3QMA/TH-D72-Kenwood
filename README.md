@@ -1,6 +1,7 @@
 # TH-D72-Kenwood - PC RIG control commands
 
 Reverse engineered commands based on my first discovery for the TM-D710.
+https://github.com/LA3QMA/TH-D72-Kenwood/wiki
 
 # Please report any errors as this has been converted from my old documents.
 https://kenwood-radios.groups.io/g/main/messages and https://kenwood-radios.groups.io/g/TH-D72
